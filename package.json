@@ -1,0 +1,25 @@
+{
+  "name": "auto-tweet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolbhardwaj17/auto-tweet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmolbhardwaj17/auto-tweet/issues"
+  },
+  "homepage": "https://github.com/anmolbhardwaj17/auto-tweet#readme",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "node-cron": "^3.0.0",
+    "twit": "^2.2.11"
+  }
+}
